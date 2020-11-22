@@ -10,3 +10,13 @@
 * CER: 2.382%
 * WER: 13.001%
 * ACC: 64.557%
+
+
+Метрики на public LB (time = 32 sec):
+* CER: 2.531%
+* WER: 13.5%
+* ACC: 62.107%
+
+## Quick start
+
+`sh build_solution.sh`

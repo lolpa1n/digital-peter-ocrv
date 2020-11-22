@@ -1,0 +1,1 @@
+zip -r 'solution.zip' models/ *.py *.json

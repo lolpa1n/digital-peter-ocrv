@@ -1,0 +1,4 @@
+{
+  "image": "pochemynonnanedaetdocker/2020:2",
+  "entry_point": "python main.py"
+}
